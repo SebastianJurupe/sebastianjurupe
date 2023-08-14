@@ -17,7 +17,7 @@
 #### Mis Estadisticas:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SebastianJurupe&theme=dark&border_radius=20&card_width=440)](https://git.io/streak-stats)
-![Sebastian GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianjurupe&show_icons=true&theme=radical&border_radius=20)
+![Sebastian GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianjurupe&show_icons=true&theme=radical&border_radius=20&card_width=440)
 <!--
 **SebastianJurupe/sebastianjurupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
