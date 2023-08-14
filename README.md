@@ -1,5 +1,5 @@
-### Hola, soy Sebastian Jurupe 👋
-### 💬 Ask me about JavasScript
+# Hola, soy Sebastian Jurupe 👋
+### Desarrollador Frontend👨🏻‍💻
 
 <!--
 **SebastianJurupe/sebastianjurupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
