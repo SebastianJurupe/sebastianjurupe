@@ -1,5 +1,7 @@
 # Hola, soy Sebastian Jurupe 👋
 ### Desarrollador Frontend👨🏻‍💻
+<h1 align="center">Hi 👋, I'm Jhonatan Yaranga</h1>
+<h3 align="center">Peruvian developer</h3>
 
 <!--
 **SebastianJurupe/sebastianjurupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
