@@ -1,7 +1,6 @@
-# Hola, soy Sebastian Jurupe 👋
-### Desarrollador Frontend👨🏻‍💻
-<h1 align="center">Hi 👋, I'm Jhonatan Yaranga</h1>
-<h3 align="center">Peruvian developer</h3>
+<h1 align="center">Hola 👋, soy Sebastian Jurupe</h1>
+<h3 align="center">Desarrollador Frontend</h3>
+<p>Me apasiona la tecnología, el desarrollo de aplicaciones web y aprender nuevas cosas. Me gusta formar parte de un equipo de trabajo que me permita adquirir nuevos conocimientos y experiencias en mi crecimiento profesional</p>
 
 <!--
 **SebastianJurupe/sebastianjurupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
